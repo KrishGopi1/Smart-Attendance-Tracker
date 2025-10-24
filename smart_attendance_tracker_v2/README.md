@@ -40,7 +40,5 @@ seed_students.py
 requirements.txt
 .env.example
 README.md
-LICENSE
 ```
 
-**License:** MIT
